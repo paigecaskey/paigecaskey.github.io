@@ -1,4 +1,4 @@
-#Data SCientist
+#Data Scientist
 ###EDUCATION  
 CHAPMAN UNIVERSITY, DALE E. AND SARAH ANN FOWLER SCHOOL OF ENGINEERING  	Orange, CA  
 Bachelor of Science in Data Science, Business Administration Minor  	May 2025  
