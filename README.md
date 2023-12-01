@@ -1,11 +1,10 @@
-EDUCATION  
-  
+#Data SCientist
+###EDUCATION  
 CHAPMAN UNIVERSITY, DALE E. AND SARAH ANN FOWLER SCHOOL OF ENGINEERING  	Orange, CA  
 Bachelor of Science in Data Science, Business Administration Minor  	May 2025  
 •	Dean’s Scholarship  
 •	Relevant Coursework: Data Structures and Algorithms, Web Engineering, Software Product Management
-EXPERIENCE  
- 
+###EXPERIENCE  
 GIANT FOOD STORES  	 	 	 	 	 	 	 	        Scranton, PA  
 Data Integrity  	May 2022 – August 2022  
 •	Analyzed inventory patterns and sales to identify trends and seasonal variations, presenting my findings to my team and managers. 
