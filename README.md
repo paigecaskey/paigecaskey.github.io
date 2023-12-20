@@ -1,4 +1,15 @@
 # PROJECTS
+## Python & R
+## Depop Pricing Full Analysis [Link](https://github.com/paigecaskey/webscraper)
+This indeprendent project is an analysis of pricing patterns on the clothing resall app "Depop". Made from start to finish, it contains a web scraper, r-script, and analysis report. The Python script uses Selenium to scrape data from the Depop platform. The web scraper assists in market analysis by collecting information on product listings, including details such as pricing, brand, condition, and description. The data was then cleaned and engineered in R, and findings were presented in a subsequent report.
+- Python Syntax
+- R Syntax
+- Pandas
+- Web Scraping
+- Data Manipulation
+- Data Engineering
+- Error Handeling
+
 ## Java
 ## "Spoons" Card Game Simulation [Link](https://github.com/paigecaskey/spoons)
 
@@ -7,16 +18,6 @@ This Java project simulates the popular card game "Spoons" involving strategy, q
 - OO programming
 - Array and LinkedList usage
 - Project Architecture
-
-## Python
-## Depop Web Scraper [Link](https://github.com/paigecaskey/webscraper)
-
-This Python script leverages Selenium to scrape data from the popular e-commerce platform Depop. The web scraper assists in market analysis by collecting information on product listings, including details such as pricing, brand, condition, and description. The data gathered serves as a valuable resource for any seller to optimize their pricing strategy and improve sales performance
-- Python Syntax
-- Pandas
-- Web Scraping
-- Data Manipulation
-- Error Handeling
 
 ## C++
 ## School Database [Link](https://github.com/paigecaskey/database)
