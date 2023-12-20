@@ -36,12 +36,4 @@ This HTML portfolio was built to showcase my skills, experiences, and projects. 
 - Interface Design
 - Interactive Web Development
 
-## R 
-## Carvana Market Car Analysis [Link](https://github.com/paigecaskey/carvana)
-
-In an exploration of the automotive market, I conducted an in-depth, data-driven analysis focused on Carvana, the online car dealership. My analysis showcases a deep understanding of Carvana's market dynamics, including its response to economic shifts and innovative marketing strategies.
-- Data Analysis
-- Data Manipulation
-- R Syntax
-
 
