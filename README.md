@@ -1,13 +1,12 @@
 # PROJECTS
 ## Python & R
 ## Depop Pricing Full Analysis [Link](https://github.com/paigecaskey/webscraper)
-This indeprendent project is an analysis of pricing patterns on the clothing resall app "Depop". Made from start to finish, it contains a web scraper, r-script, and analysis report. The Python script uses Selenium to scrape data from the Depop platform. The web scraper assists in market analysis by collecting information on product listings, including details such as pricing, brand, condition, and description. The data was then cleaned and engineered in R, and findings were presented in a subsequent report.
+This indeprendent project is an analysis of pricing patterns on the clothing resall app "Depop". Made from start to finish, it contains a web scraper, R-script, and analysis report. The Python script uses Selenium to scrape data from the Depop platform. The web scraper assists in market analysis by collecting information on product listings, including details such as pricing, brand, condition, and description. The data was then cleaned and engineered in R, and findings were presented in a subsequent report.
 - Python Syntax
 - R Syntax
 - Pandas
 - Web Scraping
-- Data Manipulation
-- Data Engineering
+- Data Manipulation and Engineering
 - Error Handeling
 
 ## Java
